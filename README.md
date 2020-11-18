@@ -4,6 +4,8 @@ Auto instrumentation of search and mange microservices.
 language : python3
 framework : flask
 
+install python3 latest version.
+
 creating virtual environment will help to keep dependencies separate.
 
 for creating virtual env :
@@ -15,7 +17,7 @@ to activate venv
 $ . /path/to/new/virtual/environment/bin/activate
 
 
-install python3 latest version.
+
 
 $ pip3 install flask
 $ pip3 install opentelemetry-sdk
