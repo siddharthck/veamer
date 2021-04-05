@@ -1,4 +1,5 @@
 # veamer
+[![Gem Version](https://badge.fury.io/rb/logstash-output-lmlogs.svg)](https://badge.fury.io/rb/logstash-output-lmlogs)
 Auto instrumentation of search and mange microservices.
 
 language : python3
